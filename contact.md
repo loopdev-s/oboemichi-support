@@ -4,6 +4,6 @@
 以下のフォームよりご連絡ください。
 
 ▶ お問い合わせフォーム  
-[https://forms.gle/g517pRWyXGua42sR8](https://forms.gle/g517pRWyXGua42sR8){:target="_blank"}
+[https://forms.gle/3W6sYHnNr6wgVkkH8](https://forms.gle/3W6sYHnNr6wgVkkH8){:target="_blank"}
 
 ※ 内容を確認のうえ、必要に応じてご返信いたします。
