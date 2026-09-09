@@ -127,6 +127,11 @@
 お問い合わせへの対応・確認のために利用し、
 対応完了後、一定期間を経過したのち削除します。
 
+お問い合わせフォームから送信した情報の削除をご希望の場合は、
+[お問い合わせページ](https://loopdev-s.github.io/oboemichi-support/contact)よりご連絡ください。
+対象となるお問い合わせを確認するため、
+送信内容等の確認をお願いする場合があります。
+
 ---
 
 ## 6. 権限の拒否・変更方法
@@ -304,6 +309,8 @@ Route records, step counts, distances, app settings, and other information handl
 Data stored within the App is deleted when the App is uninstalled.
 
 Information submitted through the contact form is used to review and respond to the inquiry and will be deleted after a reasonable period once the inquiry has been handled.
+
+If you would like to request deletion of information previously submitted through the contact form, please contact us through the [Contact page](https://loopdev-s.github.io/oboemichi-support/contact). We may ask you to provide information about the inquiry so that we can identify the relevant submission.
 
 ---
 
