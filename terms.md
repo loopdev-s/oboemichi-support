@@ -1,4 +1,7 @@
+[日本語](#ja) ｜ [English](#en)
+
 # 利用規約
+{: #ja}
 
 最終更新日：2026-09-09
 
@@ -55,4 +58,68 @@
 ## 関連情報
 
 - プライバシーポリシー  
+  [https://loopdev-s.github.io/oboemichi-support/privacy](https://loopdev-s.github.io/oboemichi-support/privacy)
+
+
+---
+
+[日本語](#ja) ｜ [English](#en)
+
+# Terms of Use
+{: #en}
+
+Last updated: September 9, 2026
+
+These Terms of Use (the "Terms") set forth the conditions for using the "Oboemichi" app (the "App").  
+By using the App, you are deemed to have agreed to these Terms.
+
+---
+
+## 1. About the App
+
+The App is provided for purposes including recording walking routes and displaying the results of walks.
+
+---
+
+## 2. Important Information for Use
+
+- Information provided by the App, including location information, route displays, distance, and step counts, may contain inaccuracies due to the device or surrounding environment.
+- The App does not guarantee navigation accuracy or safe routes.
+- Please check your surroundings and use the App at your own judgment and responsibility, with safety as your priority.
+
+---
+
+## 3. Disclaimer
+
+- The App is provided on an "AS IS" basis.
+- The developer shall not be liable for any damages arising from the use of, or inability to use, the App.
+- The developer does not guarantee the accuracy, completeness, or usefulness of the content or features of the App.
+
+---
+
+## 4. Privacy
+
+For information about how user information is handled in the App, please review the separate Privacy Policy.
+
+[https://loopdev-s.github.io/oboemichi-support/privacy](https://loopdev-s.github.io/oboemichi-support/privacy)
+
+---
+
+## 5. Changes to These Terms
+
+The developer may revise these Terms as necessary.  
+Any revised Terms will become effective when they are published on this page.
+
+---
+
+## 6. Contact
+
+For questions regarding these Terms, please use the following page.  
+[https://loopdev-s.github.io/oboemichi-support/contact](https://loopdev-s.github.io/oboemichi-support/contact)
+
+---
+
+## Related Information
+
+- Privacy Policy  
   [https://loopdev-s.github.io/oboemichi-support/privacy](https://loopdev-s.github.io/oboemichi-support/privacy)
